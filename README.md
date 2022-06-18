@@ -1,5 +1,3 @@
-[![Github profile Trophy](https://github-profile-trophy.vercel.app/?username=ppeyliang)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppeyliang&theme=vision-friendly-dark&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppeyliang&layout=compact)
-
-![ppeyliang's github stats](https://github-readme-stats.vercel.app/api?username=ppeyliang&show_icons=true&count_private=true&line_height=25&include_all_commits=true&hide=contribs)
+![ppeyliang's github stats](https://github-readme-stats.vercel.app/api?username=ppeyliang&show_icons=true&count_private=true&line_height=25&include_all_commits=true&hide=contribs&theme=vision-friendly-dark)
